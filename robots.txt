@@ -1,2 +1,3 @@
 User-agent: *
 Allow: /
+Sitemap: https://thinkworld-a-global-multilingual-social-networking-platfor.pages.dev/sitemap.xml
